@@ -56,6 +56,7 @@ The pieces are designed to be printed separately, so you can use different color
 
 No supports should be needed for the basic pieces, but check your slicer's preview before printing.
 
-## License
+<img width="914" height="653" alt="Screenshot 2026-09-27 155559" src="https://github.com/user-attachments/assets/09d1053f-96ba-484d-bdc5-46d4a9232ddc" />
+<img width="1010" height="689" alt="Screenshot 2026-09-27 153925" src="https://github.com/user-attachments/assets/878fbc6e-971c-4f35-9bd2-c7f84c0629c4" />
+<img width="185" height="382" alt="Screenshot 2026-09-27 154956" src="https://github.com/user-attachments/assets/a5147df3-9e80-44f8-abbb-1d9c6e908bbe" />
 
-This project is open source. See the `LICENSE` file for details.
